@@ -5,4 +5,11 @@
 
 Hey there 👋
 
-Want to know more about me? [Check out our website](https://www.justoglobal.com/).
+[![JustoGlobal Logo](https://www.justoglobal.com/images/Logo.png?6e215469cad8d1c3b090da02048f956511554afd)](https://www.justoglobal.com)
+
+Want to know more about us? [Check out our website](https://www.justoglobal.com/)
+
+
+
+![JustoGlobal Logo](https://www.justoglobal.com/images/Home-Page-Banner.png)
+
